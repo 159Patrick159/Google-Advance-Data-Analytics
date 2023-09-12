@@ -1,1 +1,2 @@
-*.[tar]
+# Ignored Files
+*.csv

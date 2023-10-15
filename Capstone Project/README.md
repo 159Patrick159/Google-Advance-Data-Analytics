@@ -31,5 +31,5 @@ From the figure above we clearly see that the random forest is the superior mode
 The random forest classifier defines feature importance on the princeple of how well that feature minimizes the impurity of a decision node. So in this context these features can be interpreted as good indicators for employee retainment. Therea are three features which are predominantely important, these will be called primary features, the reamining will be called secondary features. They can be visualized in the barplot below.
 
 <p align="center">
-    <img src="images/Feature_Importance.png" title="Feature Importance" height="60%" width="60%">
+    <img src="images/Feature_Importance.png" title="Feature Importance" height="75%" width="75%">
 </p>
